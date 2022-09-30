@@ -7,7 +7,7 @@ Created on Mon Sep 26 17:33:19 2022
 
 import streamlit as st
 import requests,time
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 import numpy as np
 
 st.set_page_config(page_title='',page_icon=':computer:',layout='wide')
